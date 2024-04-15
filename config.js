@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QUEENNILU;;;M2NH2CpK#jvZP6Q-z2C9xr9RLKE6jKXqxOwfiOU4p0XlNq8w8jZs' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://maxdown_user:U7xcNvxZkGkFm0I36vKlZyDrxvqEFhIr@dpg-coeo6p8l5elc738d69b0-a.frankfurt-postgres.render.com/maxdown'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94765775266'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'sathmim'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -67,7 +67,7 @@ global.ANTI_BAD_ACTION = false
 
 global.ANTI_LINK = true //Anti Link (on = True , Off = False )
 
-global.ANTI_BOTS = true
+global.ANTI_BOTS = false
 
 global.ONLY_GROUP = 'false' // Only group mode
 
@@ -80,11 +80,11 @@ global.SEX_DL = 'false' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
-global.AUTO_STICKER = true
+global.AUTO_STICKER = false
 
-global.AUTO_REPLY = true
+global.AUTO_REPLY = false
 
-global.VOICE_REPLY = true
+global.VOICE_REPLY = false
 
 
 /* V card */
